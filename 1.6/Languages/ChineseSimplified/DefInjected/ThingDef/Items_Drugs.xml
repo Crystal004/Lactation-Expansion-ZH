@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: broodmother -->
+  <SEX_Broodmother.label>育母素</SEX_Broodmother.label>
+  <!-- EN: A synthetic drug developed for wet nurses. Broodmother stimulates milk glands and causes the taker to lactate. If taken regularly, it will prevent lactation from stopping.
+       Broodmother withdrawal is known to be quite brutal. -->
+  <SEX_Broodmother.description>一种为奶妈设计的合成药物。育母素能刺激乳腺，使服用者泌乳。若定期服用，可防止泌乳中断。\n\n育母素的戒断反应相当激烈。</SEX_Broodmother.description>
+  <!-- EN: Drink {0} -->
+  <SEX_Broodmother.ingestible.ingestCommandString>服用{0}</SEX_Broodmother.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <SEX_Broodmother.ingestible.ingestReportString>正在服用{0}</SEX_Broodmother.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: milking -->
+  <SEX_WorkGiver_DoctorMilkColonist.gerund>挤奶</SEX_WorkGiver_DoctorMilkColonist.gerund>
+  <!-- EN: milk -->
+  <SEX_WorkGiver_DoctorMilkColonist.verb>挤奶</SEX_WorkGiver_DoctorMilkColonist.verb>
+
+  <SEX_WorkGiver_MilkSelf.label>挤自己母乳</SEX_WorkGiver_MilkSelf.label>
+  <!-- EN: milking self -->
+  <SEX_WorkGiver_MilkSelf.gerund>挤母乳</SEX_WorkGiver_MilkSelf.gerund>
+  <!-- EN: milk -->
+  <SEX_WorkGiver_MilkSelf.verb>挤母乳</SEX_WorkGiver_MilkSelf.verb>
+
+  <SEX_WorkGiver_WardenMilkPrisoner.label>挤囚犯母乳</SEX_WorkGiver_WardenMilkPrisoner.label>
+  <!-- EN: milking -->
+  <SEX_WorkGiver_WardenMilkPrisoner.gerund>挤母乳</SEX_WorkGiver_WardenMilkPrisoner.gerund>
+  <!-- EN: milk -->
+  <SEX_WorkGiver_WardenMilkPrisoner.verb>挤母乳</SEX_WorkGiver_WardenMilkPrisoner.verb>
+</LanguageData>

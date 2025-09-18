@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SEX_MilkingToggle>切換自我擠奶</SEX_MilkingToggle>
+  <SEX_MilkingToggleDescription>切換是否允許該殖民者達到 80% 奶水飽和度後自我擠奶。</SEX_MilkingToggleDescription>
+  
+  <SEX_PrisonerMilkingToggle>切換囚犯擠奶</SEX_PrisonerMilkingToggle>
+  <SEX_PrisonerMilkingToggleDescription>切換是否允許守衛在囚犯達到 80% 奶水飽和度後進行擠奶。</SEX_PrisonerMilkingToggleDescription>
+  
+  <SEX_MaleLactation>允許男性泌乳</SEX_MaleLactation>
+  <SEX_MaleLactationDescription>勾選後，男性也會有泌乳能力。</SEX_MaleLactationDescription>
+</LanguageData>

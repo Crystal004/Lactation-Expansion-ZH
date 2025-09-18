@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on broodmother -->
+  <SEX_BroodmotherHigh.stages.high_on_broodmother.label>育母素藥效期</SEX_BroodmotherHigh.stages.high_on_broodmother.label>
+  <!-- EN: My chest aches. It's not an unpleassnant ache. -->
+  <SEX_BroodmotherHigh.stages.high_on_broodmother.description>我的胸口隱隱作痛，但並不難受。</SEX_BroodmotherHigh.stages.high_on_broodmother.description>
+  <!-- EN: broodmother withdrawal -->
+  <SEX_BroodmotherWithdrawal.stages.broodmother_withdrawal.label>育母素戒斷期</SEX_BroodmotherWithdrawal.stages.broodmother_withdrawal.label>
+  <!-- EN: My chest hurts and my limbs feel heavy. It hurts so much! -->
+  <SEX_BroodmotherWithdrawal.stages.broodmother_withdrawal.description>我的胸口劇烈疼痛，四肢沉重難耐。好痛苦！</SEX_BroodmotherWithdrawal.stages.broodmother_withdrawal.description>
+</LanguageData>

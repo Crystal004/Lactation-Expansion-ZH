@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breast milk -->
+  <SEX_BreastMilk.label>母乳</SEX_BreastMilk.label>
+  <!-- EN: Sweet, nutritious milk from a human.\n\nHuman milk can be fed to human babies. -->
+  <SEX_BreastMilk.description>人類的甜美、營養的母乳。 \n\n母乳可以用來餵養人類嬰兒。</SEX_BreastMilk.description>
+  
+</LanguageData>

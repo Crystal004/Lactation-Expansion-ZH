@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+
+	<name>Lactation Expansion ZH</name>
+
+ 	<author>OuO</author>
+
+	<description>這是 [Lactation Expansion] 的中文翻譯包(包含簡體)。僅翻譯文本，不包含原始模組內容，必須同時訂閱原模組。\n\n原作作者：turkler\nSteam：https://steamcommunity.com/sharedfiles/filedetails/?id=3489491945\n\n如有翻譯建議與錯漏，歡迎留言反饋！</description>
+  
+	<packageId>OuO.LactationExpansion.zh</packageId>
+
+	<supportedVersions>
+    		<li>1.6</li>
+	</supportedVersions>
+
+	<modVersion></modVersion>
+
+	<modDependencies>
+		<li>
+    		<packageId>euterpe.milkytitfuck</packageId>
+    		<displayName>Lactation Expansion</displayName>
+    		<steamWorkshopUrl>steam://url/CommunityFilePage/3489491945</steamWorkshopUrl>
+  		</li>
+	</modDependencies>
+
+	<loadAfter>
+		<li>euterpe.milkytitfuck</li>
+	</loadAfter>
+
+</ModMetaData>

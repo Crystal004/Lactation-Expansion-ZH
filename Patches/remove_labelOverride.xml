@@ -1,0 +1,10 @@
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Cooking Expanded</li>
+    </mods>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/PipeSystem.ProcessDef[defName="SEX_BreastMilkIntoCheese"]/labelOverride</xpath>
+    </match>
+  </Operation>
+</Patch>

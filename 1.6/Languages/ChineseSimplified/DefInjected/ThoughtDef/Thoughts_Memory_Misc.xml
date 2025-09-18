@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: broodmother ache -->
+  <SEX_BroodmotherIncompatible.stages.broodmother_ache.label>育母素疼痛</SEX_BroodmotherIncompatible.stages.broodmother_ache.label>
+  <!-- EN: My chest hurts. This drug obviously won't work on me, why did I even take it? -->
+  <SEX_BroodmotherIncompatible.stages.broodmother_ache.description>我的胸口隐隐作痛。这种药明显对我无效，我为什么还要服用？</SEX_BroodmotherIncompatible.stages.broodmother_ache.description>
+
+  <!-- EN: milked -->
+  <SEX_PrisonerMilked.stages.milked.label>被挤奶</SEX_PrisonerMilked.stages.milked.label>
+  <!-- EN: I was milked as if I were mere cattle. It was humiliating! -->
+  <SEX_PrisonerMilked.stages.milked.description>我被当作牲畜一般强行挤奶，这让我感到极度屈辱！</SEX_PrisonerMilked.stages.milked.description>
+
+  <!-- EN: masochist milked -->
+  <SEX_PrisonerMilked_Masochist.stages.masochist_milked.label>受虐者被挤奶</SEX_PrisonerMilked_Masochist.stages.masochist_milked.label>
+  <!-- EN: I was milked as if I were mere cattle. It was exciting! -->
+  <SEX_PrisonerMilked_Masochist.stages.masochist_milked.description>我被当作牲畜一般挤奶，这种感觉竟让我兴奋！</SEX_PrisonerMilked_Masochist.stages.masochist_milked.description>
+
+  <!-- EN: forced to milk self -->
+  <SEX_SlaveMilked.stages.forced_to_milk_self.label>被迫自挤奶</SEX_SlaveMilked.stages.forced_to_milk_self.label>
+  <!-- EN: I was forced to milk myself. It was humiliating! -->
+  <SEX_SlaveMilked.stages.forced_to_milk_self.description>我被强迫自己挤奶，这让我感到屈辱至极！</SEX_SlaveMilked.stages.forced_to_milk_self.description>
+
+  <!-- EN: masochist forced to milk self -->
+  <SEX_SlaveMilked_Masochist.stages.masochist_forced_to_milk_self.label>受虐者被迫自挤奶</SEX_SlaveMilked_Masochist.stages.masochist_forced_to_milk_self.label>
+  <!-- EN: I was forced to milk myself. It was exciting! -->
+  <SEX_SlaveMilked_Masochist.stages.masochist_forced_to_milk_self.description>我被迫自己挤奶，这竟然让我感到兴奋！</SEX_SlaveMilked_Masochist.stages.masochist_forced_to_milk_self.description>
+</LanguageData>

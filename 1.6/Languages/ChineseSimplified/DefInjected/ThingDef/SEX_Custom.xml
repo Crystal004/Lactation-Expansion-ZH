@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SEX_MothersCheese.label>母乳芝士</SEX_MothersCheese.label>
+  <SEX_MothersCheese.description>一种用乳汁制作而成的香浓甜芝士。</SEX_MothersCheese.description>
+
+  <SEX_BreastMilkIntoCheese.label>母乳制芝士</SEX_BreastMilkIntoCheese.label>
+  <SEX_BreastMilkIntoCheese.description>将 50 单位的母乳转化为 25 个母乳芝士。</SEX_BreastMilkIntoCheese.description>
+</LanguageData>

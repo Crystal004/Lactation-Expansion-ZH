@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: wet nurse -->
+  <SEX_AlwaysLactating.label>乳母</SEX_AlwaysLactating.label>
+  <!-- EN: Carriers of this gene will always lactate. -->
+  <SEX_AlwaysLactating.description>携带此基因者将会持续泌乳。</SEX_AlwaysLactating.description>
+  <!-- EN: Carriers of this gene will always lactate. If lactation stops due to health conditions (like malnutrition) it will resume once those conditions are resolved. -->
+  <SEX_AlwaysLactating.customEffectDescriptions.0>拥有此基因者会持续泌乳。若因健康状况（如营养不良）导致泌乳暂停，待身体恢复后将会继续泌乳。</SEX_AlwaysLactating.customEffectDescriptions.0>
+  <!-- EN: lactation -->
+  <SEX_AlwaysLactating.labelShortAdj>泌乳</SEX_AlwaysLactating.labelShortAdj>
+  <!-- EN: brood -->
+  <SEX_AlwaysLactating.symbolPack.prefixSymbols.0.symbol>育</SEX_AlwaysLactating.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: mother -->
+  <SEX_AlwaysLactating.symbolPack.prefixSymbols.1.symbol>母</SEX_AlwaysLactating.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: maternal -->
+  <SEX_AlwaysLactating.symbolPack.prefixSymbols.2.symbol>慈</SEX_AlwaysLactating.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: milk -->
+  <SEX_AlwaysLactating.symbolPack.wholeNameSymbols.0.symbol>乳</SEX_AlwaysLactating.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: feeder -->
+  <SEX_AlwaysLactating.symbolPack.wholeNameSymbols.1.symbol>哺</SEX_AlwaysLactating.symbolPack.wholeNameSymbols.1.symbol>
+</LanguageData>

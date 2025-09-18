@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: broodmother addiction -->
+  <SEX_BroodmotherAddiction.label>育母素成瘾</SEX_BroodmotherAddiction.label>
+  <!-- EN: A chemical addiction to broodmother. Long-term presence of broodmother has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+       Without regular doses of broodmother, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <SEX_BroodmotherAddiction.description>一种对育母素的化学成瘾。长期持续摄取育母素，会在细胞层面造成神经适应，使大脑失去对药物以外的正常运作能力。\n若未能定期摄取育母素，将会出现戒断症状。不过，若长时间停用，大脑最终会重新适应回正常状态，成瘾便会解除。</SEX_BroodmotherAddiction.description>
+  <!-- EN: withdrawal -->
+  <SEX_BroodmotherAddiction.stages.withdrawal.label>戒断</SEX_BroodmotherAddiction.stages.withdrawal.label>
+  <!-- EN: high on broodmother -->
+  <SEX_BroodmotherHigh.label>育母素作用中</SEX_BroodmotherHigh.label>
+  <!-- EN: Broodmother in the bloodstream. It stimulates milk glands and causes the takes to lactate when first injected. -->
+  <SEX_BroodmotherHigh.description>血液中含有育母素。此药会刺激乳腺，初次注射时会立刻引发泌乳。</SEX_BroodmotherHigh.description>
+  <!-- EN: a broodmother high -->
+  <SEX_BroodmotherHigh.labelNoun>育母素兴奋</SEX_BroodmotherHigh.labelNoun>
+  <!-- EN: broodmother tolerance -->
+  <SEX_BroodmotherTolerance.label>育母素耐受性</SEX_BroodmotherTolerance.label>
+  <!-- EN: A built-up tolerance to broodmother. The more severe this tolerance is, the more broodmother it takes to get the same effect. -->
+  <SEX_BroodmotherTolerance.description>长时间接触育母素产生的耐受性。耐受性越高，需要摄取的剂量才能维持相同效果。</SEX_BroodmotherTolerance.description>
+  <!-- EN: small -->
+  <SEX_BroodmotherTolerance.stages.small.label>轻微</SEX_BroodmotherTolerance.stages.small.label>
+  <!-- EN: large -->
+  <SEX_BroodmotherTolerance.stages.large.label>严重</SEX_BroodmotherTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SEX_BroodmotherTolerance.stages.massive.label>极度</SEX_BroodmotherTolerance.stages.massive.label>
+</LanguageData>
